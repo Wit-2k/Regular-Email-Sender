@@ -19,3 +19,5 @@ venv/
 
 密码.md
 regular_sender.py
+regular_sender_ui.py
+config.json
